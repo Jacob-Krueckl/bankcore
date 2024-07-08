@@ -1,3 +1,3 @@
-module github.com/msft/bank
+module github.com/Jacob-Krueckl/bankcore
 
 go 1.14
