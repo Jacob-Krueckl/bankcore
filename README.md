@@ -5,7 +5,13 @@ The bank package provides a simple banking system that includes customer managem
 
 ## Installation
 
-To use the bank package, simply import it in your Go project:
+To use the bank package, install it using the go get command:
+
+``` sh
+go get github.com/Jacob-Krueckl/bankcore
+```
+
+Then, import the package in your code:
 
 ``` go
 import "github.com/Jacob-Krueckl/bankcore"
