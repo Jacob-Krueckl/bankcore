@@ -8,7 +8,7 @@ The bank package provides a simple banking system that includes customer managem
 To use the bank package, simply import it in your Go project:
 
 ``` go
-import "path/to/bank"
+import "github.com/Jacob-Krueckl/bankcore"
 ```
 
 ## Package Contents
